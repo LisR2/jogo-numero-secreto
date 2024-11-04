@@ -21,7 +21,7 @@ Copiar código
 jogo-numero-secreto/
 ├── index.html       # Página principal do jogo
 ├── style.css        # Arquivo de estilos CSS
-├── script.js        # Lógica do jogo
+├── app.js        # Lógica do jogo
 └── README.md        # Documentação do projeto
 
 ⚠️ Observações
